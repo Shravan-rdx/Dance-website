@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../static/style.css">
+    <script src="../static/index.js"></script>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+    
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="     crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+</head>
+<body>
+
+    <div id="navbar">
+        <div id="logo">
+            <i class="fa-solid fa-guitar-electric"></i>
+            <h1>SKY Dance Classes</h1>
+            <img src="../static/logo-removebg-preview.png" alt="" width="100%" height="50%">
+        </div>
+        <ul>
+            <!-- <li class="item"><a href="#home">Home</a></li> -->
+            <li class="item"><a href="#Home">Home</a></li>
+            <li class="item"><a href="#About">About</a></li>
+            <li class="item"><a href="#Training">Training</a></li>
+            <li class="item"><a href="#Classes">Classes</a></li>
+            <li class="item"><a href="#OurStudio">Our Studio</a></li>
+            <li class="item"><a href="#Contact">Contact Us</a></li>
+        </ul>
+    </div>
+
+<!---------------- Home --------------->
+    <section id="Home">
+
+        <div class="container">
+            <div class="intro">
+                <h3>WEL-COME TO MY </h3>
+                <h1>DANCE CLASSES</h1>
+                <h2>DANCE CLASS FOR EVERYBODY</h2>
+            </div>
+            
+        </div>
+        
+    </section>
+<!--------------- About --------------->
+    <section id="About">
+        <div class="container">
+                <div class="about-col">
+                    <img src="../static/img1.jpg " style="height: 700px; border: 5px solid rgba(232, 218, 218, 0.877); margin-left: 50px;">
+                </div>
+                <div class="about-col">
+                    <h2>BEST DANCE CLASSES & STUDIO SINCE 2005</h2>
+                    <p>At [SKY Dance Classes], we believe in the transformative power of dance. Our studio is a 
+                        vibrant and inclusive space where individuals of all ages and skill levels can explore the 
+                        art of dance. Whether you're a beginner taking your first steps or an experienced dancer 
+                        looking to refine your technique, we have a class for you.</p>
+                        <p>In molestie malesuada dolor, in dignissim enim imperdiet id. Integer vel tellus justo. Mauris finibus ante in elit pellentesque molestie. Maecenas malesuada neque ac tempus vulputate. Morbi mollis eleifend tincidunt. Etiam mi sapien, hendrerit sit amet diam euismod, tempor ullamcorper libero. Quisque tempus urna arcu.</p>
+                        <p>This also meant we needed to provide a learning environment run by experienced and successful coaches. However, our most important goal was to create a welcoming atmosphere and community in which everyone feels a sense of belonging.</p>
+                    
+                </div>
+        </div>
+    </section>
+<!-------------- Training -------------->
+    <section id="Training">
+        <div class="Training">
+            <h1>Training</h1>
+        </div>
+        <div class="row">
+            <div class="column"><img src="../static/img7.jpg" alt=""></div>
+<div class="column"><img src="../static/img4.jpg" alt=""></div>
+<div class="column"><img src="../static/img1.jpg" alt=""></div>
+<div class="column"><img src="../static/img5.jpg" alt=""></div>
+</div>
+
+<div class="row-1">
+<div class="column-1">
+    <h4>Training the dancers goes on in our Academy on a regular basis. You can enroll for a part-time or full-time program.</h4>
+</div>
+<div class="column-1">
+    <h4>Full-time Dance Workshop  PreTeens 11-16 years</h4>
+    <h4>Full-time Advance Training Teens 16-19-years</h4>
+    <h4>Adults  19 years onwards</h4>
+</div>
+<div class="column-1">
+    <h4>Full-time Dance Workshop  PreTeens 11-16 years</h4>
+    <h4>Full-time Advance Training Teens 16-19-years</h4>
+    <h4>Adults  19 years onwards</h4>
+</div>
+<div class="column-1">
+    <h4>Advance Dance Techniques</h4>
+    <h4>Basic Moves in Ballet</h4>
+    <h4>Diploma in Pilates</h4>
+    <h4>Calisthenics Basics</h4>
+</div>
+</div>
+</section>
+<!------------- Classes ---------------->
+    <section id="Classes">
+        <div class="classes">
+            <h1>OUR CLASS</h1>
+        </div>
+
+        <div class="classes1">
+            <h2>CHOOSE YOUR DANCE STYLE</h2>
+            <div class="row">
+                <div class="column"><img src="../static/img15.jpg" alt=""></div>
+                <div class="column"><img src="../static/img13.jpg" alt=""></div>
+                <div class="column"><img src="../static/img14.jpg" alt=""></div>
+                <div class="column"><img src="../static/img12.jpeg" alt=""></div>
+            </div>
+            <div class="row-1">
+                <div class="column-1">
+                    <h1>Classical Dance</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, similique.</p>
+                </div>
+                <div class="column-1">
+                    <h1>Party Dance</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, earum!</p>
+                </div>
+                <div class="column-1">
+                    <h1>K-POP Dance</h1>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt, laboriosam!</p>
+                </div>
+                <div class="column-1">
+                    <h1>Polo Dance</h1>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores, ad?</p>
+                </div>
+            </div>
+            <div class="card">
+                <h1>Hello</h1>
+            </div>
+            <div class="card">Time</div>
+            <div class="card">Time</div>
+            <div class="card">Time</div>
+        </div>
+</section>
+<!------------- Our Studio ------------->
+    <section id="OurStudio">
+        <div class="studio">
+            <h1>Our Digital Studio</h1>
+        </div>
+        <dic class="video">
+            
+            <iframe width="460" height="270" src="https://www.youtube-nocookie.com/embed/pZ7DmLkImoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+            <iframe width="460" height="270" src="https://www.youtube-nocookie.com/embed/xJ5ct84-nmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+            <iframe width="460" height="270" src="https://www.youtube-nocookie.com/embed/j_m6-aGn6iw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+            <iframe width="460" height="270" src="https://www.youtube-nocookie.com/embed/klYsYinvorE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+            <iframe width="460" height="270" src="https://www.youtube-nocookie.com/embed/MLlU2_sbFWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+            <iframe width="460" height="270" src="https://www.youtube.com/embed/8SuaFY75JSI"title="YouTube video player" frameborder="0"allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+
+        </dic>
+    </section>
+<!------------- Contact ---------------->
+
+<section id="Contact">
+<div class="row">
+    <div class="column">
+<h1>Contat Us</h1>
+
+<div class="social-link">
+    <ul>
+        <li>
+            <a href="https://www.linkedin.com/in/shravan-kumar-60864720b/" target="_blank">
+                <i class="fa-brands fa-linkedin"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/Shravan-rdx" target="_blank">
+                <i class="fa-brands fa-github"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.instagram.com/er.yadavshravan/" target="_blank">
+                <i class="fa-brands fa-instagram"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.facebook.com/yadavshravan.shravan.5" target="_blank">
+                <i class="fa-brands fa-facebook"></i>
+            </a> 
+        </li>
+        <li>
+            <a href="https://twitter.com/Shravan94726434?t=Vl8u7yy03hyF3pA1Arib7Q&s=09" target="_blank">
+                <i class="fa-brands fa-twitter"></i>
+            </a>
+        </li>
+    </ul>
+</div>
+
+<h3>Email-id :- yadavshravan1925@gmail.com</h3>
+<h3>Mob- No :- 9525404080</h3>
+    </div>
+        
+    <div class="column">
+<h1>Registration Form</h1>
+<form id="registration-form" onsubmit="submitForm(event)">
+<!-- <form action="/" method="post" id="registration-form" > -->
+<label for="email">Email:</label>
+<input type="email" id="email" required>
+    <br>
+    <label for="mobile">Mobile:</label>
+    <input type="tel" id="mobile" required>
+    <br>
+    <label for="message">Message:</label>
+    <textarea id="message" required></textarea>
+    <br>
+    <label for="address">Address:</label>
+    <textarea id="address" required></textarea>
+    <br>
+    <label for="gender">Gender:</label>
+    <select id="gender" required>
+      <option value="">Select</option>
+      <option value="male">Male</option>
+      <option value="female">Female</option>
+      <option value="other">Other</option>
+    </select>
+    <br>
+    <label for="age">Age:</label>
+    <input type="number" id="age" required>
+<br>
+<input type="submit" value="Register">
+</form>
+<div id="response"></div>
+</div>
+
+</div>
+</section>
+
+
+    <footer>
+        <div class="center">
+            copyright &copy; www.SKY.com.All rights reserved!
+        </div>
+    </footer>
+
+</body>
+</html>
+
+
+
+//- //- index.pug
+//- doctype html
+//- html
+//-   head
+//-     style
+//-       include ../static/style.css
+//-   body
+//-     nav#navbar 
+//-         ul 
+//-             li #[a(href="/") Home]
+//-             li #[a(href="/") About]
+//-             li #[a(href="/") Services]
+//-             li #[a(href="/") Class Info]
+//-             li #[a(href="/") Contact Us ]
+
+//-     section#introSection 
+//-           div Welcome to Sky's Dance Academy
+//-           div Eat Sleep Dance Repate
+
+//-     section#sponsorSection 
+//-           section section for Sponsor 
+
+//-     section#contactSection 
+//-           contact contact Us 
+
+//-     section#footertSection 
+//-           our our footer here  
+    
+    
+//-     script
+//-       include ../static/index.js
