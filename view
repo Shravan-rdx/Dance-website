@@ -5,8 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="../static/style.css">
-    <script src="../static/index.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <script src="index.js"></script>
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
     
@@ -19,7 +19,7 @@
         <div id="logo">
             <i class="fa-solid fa-guitar-electric"></i>
             <h1>SKY Dance Classes</h1>
-            <img src="../static/logo-removebg-preview.png" alt="" width="100%" height="50%">
+            <img src="logo-removebg-preview.png" alt="" width="100%" height="50%">
         </div>
         <ul>
             <!-- <li class="item"><a href="#home">Home</a></li> -->
@@ -49,7 +49,7 @@
     <section id="About">
         <div class="container">
                 <div class="about-col">
-                    <img src="../static/img1.jpg " style="height: 700px; border: 5px solid rgba(232, 218, 218, 0.877); margin-left: 50px;">
+                    <img src="img1.jpg " style="height: 700px; border: 5px solid rgba(232, 218, 218, 0.877); margin-left: 50px;">
                 </div>
                 <div class="about-col">
                     <h2>BEST DANCE CLASSES & STUDIO SINCE 2005</h2>
@@ -69,10 +69,10 @@
             <h1>Training</h1>
         </div>
         <div class="row">
-            <div class="column"><img src="../static/img7.jpg" alt=""></div>
-<div class="column"><img src="../static/img4.jpg" alt=""></div>
-<div class="column"><img src="../static/img1.jpg" alt=""></div>
-<div class="column"><img src="../static/img5.jpg" alt=""></div>
+            <div class="column"><img src="img7.jpg" alt=""></div>
+<div class="column"><img src="img4.jpg" alt=""></div>
+<div class="column"><img src="img1.jpg" alt=""></div>
+<div class="column"><img src="img5.jpg" alt=""></div>
 </div>
 
 <div class="row-1">
@@ -106,10 +106,10 @@
         <div class="classes1">
             <h2>CHOOSE YOUR DANCE STYLE</h2>
             <div class="row">
-                <div class="column"><img src="../static/img15.jpg" alt=""></div>
-                <div class="column"><img src="../static/img13.jpg" alt=""></div>
-                <div class="column"><img src="../static/img14.jpg" alt=""></div>
-                <div class="column"><img src="../static/img12.jpeg" alt=""></div>
+                <div class="column"><img src="img15.jpg" alt=""></div>
+                <div class="column"><img src="img13.jpg" alt=""></div>
+                <div class="column"><img src="img14.jpg" alt=""></div>
+                <div class="column"><img src="img12.jpeg" alt=""></div>
             </div>
             <div class="row-1">
                 <div class="column-1">
@@ -251,7 +251,7 @@
 //- html
 //-   head
 //-     style
-//-       include ../static/style.css
+//-       include"style.css
 //-   body
 //-     nav#navbar 
 //-         ul 
@@ -276,4 +276,4 @@
     
     
 //-     script
-//-       include ../static/index.js
+//-       include"index.js
