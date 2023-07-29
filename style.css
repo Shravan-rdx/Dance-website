@@ -463,3 +463,10 @@ body{
 .fa-brands{
   font-family: "Font Awesome 6 Brands";
 }
+
+/************footer*********/
+footer{
+  background-color: gray;
+  text-align: center;
+  font-style: italic;
+}
